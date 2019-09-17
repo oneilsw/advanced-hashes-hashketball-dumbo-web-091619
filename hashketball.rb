@@ -203,33 +203,3 @@ def player_stats(player_name)
   new_hash 
 end 
  
-def big_shoe_rebounds
-  #game_hash.each do |place,team| 
-  #   #team.each do |attribute,data|
-  #   # binding.pry 
-  #   end 
-  # end 
-  return 11
-end 
-
-def most_points_scored
-  return "Ben Gordon"
-end 
-
-def winning_team
-  return "Brooklyn Nets"
-end 
-
-def player_with_longest_name
-  return "Bismack Biyombo"
-end   
-
-def long_name_steals_a_ton?
-  true 
-end 
-
-
-
-
-
-
